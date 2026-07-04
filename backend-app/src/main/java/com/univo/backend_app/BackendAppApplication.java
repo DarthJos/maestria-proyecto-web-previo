@@ -8,7 +8,7 @@ public class BackendAppApplication {
 
 	/**
 	 * Metodo de inicio de mi aplicación backend
-	 * @param args
+	 * @param args los de siempre del main
 	 */
 	public static void main(String[] args) {
 		SpringApplication.run(BackendAppApplication.class, args);
