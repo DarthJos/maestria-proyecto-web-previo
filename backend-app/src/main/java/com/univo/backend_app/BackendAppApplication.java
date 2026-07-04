@@ -6,6 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BackendAppApplication {
 
+	/**
+	 * Metodo de inicio de mi aplicación backend
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		SpringApplication.run(BackendAppApplication.class, args);
 	}
