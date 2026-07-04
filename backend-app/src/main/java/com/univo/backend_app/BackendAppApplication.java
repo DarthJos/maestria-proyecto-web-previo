@@ -11,6 +11,7 @@ public class BackendAppApplication {
 	 * @param args los de siempre del main
 	 */
 	public static void main(String[] args) {
+		// Otro comentario
 		SpringApplication.run(BackendAppApplication.class, args);
 	}
 
